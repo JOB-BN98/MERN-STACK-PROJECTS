@@ -1,0 +1,37 @@
+{
+  "user": [
+    {
+      "id": "beetle@germinate.com",
+      "user": "beetlejuice",
+      "pass": "beetlepass",
+      "city": "kottayam",
+      "country": "india",
+      "add1": "lol",
+      "add2": "lol1",
+      "zip": "37",
+      "gender": "male"
+    },
+    {
+      "id": "newuser@gmail.com",
+      "user": "newuser",
+      "pass": "newpass",
+      "city": "kottayam",
+      "country": "india",
+      "add1": "lol",
+      "add2": "lol1",
+      "zip": "37",
+      "gender": "male"
+    },
+    {
+      "id": "btlgs@germinate.com",
+      "user": "btlgs",
+      "pass": "newpass",
+      "city": "sdf",
+      "country": "india",
+      "add1": "lol",
+      "add2": "lol1",
+      "zip": "37",
+      "gender": "male"
+    }
+  ]
+}
