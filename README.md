@@ -7,6 +7,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+In the new project directory, you can run:
+
+### `npx json-server --watch oriondb.json --port 8000`
+In the new project directory, you can run:
+
+### `npx json-server --watch ophiucusdb.json --port 7000`
+
+note:
+needs following installations on react
+>>npm install -g json-server
+>>npm install --save react-toastify
+>>npm i react-router-dom react-dom
+>>npm i bootstrap@latest
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
